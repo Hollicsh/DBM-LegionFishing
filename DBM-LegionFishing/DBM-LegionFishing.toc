@@ -1,4 +1,4 @@
-## Interface: 110105
+## Interface: 110200
 ## Category: DBM
 ## X-Min-Interface: 80000
 ## Title:|cffffe00a<|r|cffff7d0aDBM Extra|r|cffffe00a>|r |cff69ccf0Legion Fishing|r
